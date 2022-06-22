@@ -1,0 +1,47 @@
+{
+    "posts": [{
+        "id": 1,
+        "name": "KüçükÇiftlik Tiyatrosu",
+        "email": "Sat@mail.com",
+        "image": "https://www.biletix.com/static/images/live/event/groupimages/bahceeetiyatooo256521836-003.png",
+        "adderss": "South street",
+        "place":"KüçükÇifltik Park, İstanbul",
+        "Time":"22 Haz 2022",
+        "Content":"Ülkemizde de büyük hayran kitlesine sahip İngiliz-İrlandali müzik grubu One Direction'ın üyesi Louis Tomlinson solo projesi ile ilk kez ülkemizde!"
+    }, {
+        "id": 2,
+        "name": "Tiyatronet",
+        "email": "john@mail.com",
+        "image": "https://www.biletix.com/static/images/live/event/groupimages/tiyatronet267997991.png",
+        "adderss": "North street",
+        "place":"İstanbul",
+        "Time":"29 Tem 2022",
+        "Content":"Yalın’la Bir Yaz Akşamı “Unutulmaz Şarkılar” 29 Temmuz’da Maximum Uniq Açıkhava’da!"
+    }, {
+        "id": 3,
+        "name": "Balon Kukla Tiyatrosu",
+        "email": "robert@mail.com",
+        "image": "https://www.biletix.com/static/images/live/event/groupimages/balon-kukla_tiyatrosu.png",
+        "adderss": "East street",
+        "place":"İstanbul",
+        "Time":"30 Haz 2022",
+        "Content":"Balon Kukla Tiyatrosu, çocukların en sevdiği oyunları sahneye taşımaya devam ediyor."
+    }, {
+        "id": 4,
+        "name": "Cep Tiyatrosu",
+        "email": "mani@mail.com",
+        "image": "https://www.biletix.com/static/images/live/event/groupimages/cep-tiyatroo.png",
+        "adderss": "West street",
+        "place":"İstanbul",
+        "Time":"31 Ara 2022",
+        "Content":"Dolu Kadehi Ters Tut , KerkiSolfej organizasyonu ile sizlerle buluşuyor..."
+    }],
+    "comments": [{
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+    }],
+    "profile": {
+        "name": "typicode"
+    }
+}

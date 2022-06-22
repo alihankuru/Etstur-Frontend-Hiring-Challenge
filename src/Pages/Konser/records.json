@@ -1,0 +1,47 @@
+{
+    "posts": [{
+        "id": 1,
+        "name": "Louis Tomlinson                                ",
+        "email": "Sat@mail.com",
+        "image": "https://www.biletix.com/static/images/live/event/eventimages/louissss1TMCC.png",
+        "adderss": "South street",
+        "place":"KüçükÇifltik Park, İstanbul",
+        "Time":"30 Haz 2022",
+        "Content":"Ülkemizde de büyük hayran kitlesine sahip İngiliz-İrlandali müzik grubu One Direction'ın üyesi Louis Tomlinson solo projesi ile ilk kez ülkemizde!"
+    }, {
+        "id": 2,
+        "name": "Yalın - Bir Yaz Akşamı",
+        "email": "john@mail.com",
+        "image": "https://www.biletix.com/static/images/live/event/eventimages/15A18_yalinbkm.jpg",
+        "adderss": "North street",
+        "place":"Maximum Uniq AçıkHava, İstanbul",
+        "Time":"29 Tem 2022",
+        "Content":"Yalın’la Bir Yaz Akşamı “Unutulmaz Şarkılar” 29 Temmuz’da Maximum Uniq Açıkhava’da!"
+    }, {
+        "id": 3,
+        "name": "Emre Kaya Usta Şarkılar",
+        "email": "robert@mail.com",
+        "image": "https://www.biletix.com/static/images/live/event/eventimages/emre-yeniii1.png",
+        "adderss": "East street",
+        "place":"İstanbul",
+        "Time":"24 Haz 2022",
+        "Content":"Emre Kaya Usta Şarkılar, 24 Haziran akşamı Jolly Joker İstMarina sahnesinde."
+    }, {
+        "id": 4,
+        "name": "Güvercin Açık Mikrofon",
+        "email": "mani@mail.com",
+        "image": "https://www.biletix.com/static/images/live/event/eventimages/1FM19-gorsel.png",
+        "adderss": "West street",
+        "place":"Ankara",
+        "Time":"25 Haz 2022",
+        "Content":"Güvercin Açık Mikrofon ister sahneye çık ister seyirci ol! Cumartesi 18:00 da Fade Sahne’de."
+    }],
+    "comments": [{
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+    }],
+    "profile": {
+        "name": "typicode"
+    }
+}
