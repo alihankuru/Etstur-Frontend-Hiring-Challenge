@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Etstur-Frontend-Hiring-Challenge/static/css/main.09d73d54.css",
+    "main.js": "/Etstur-Frontend-Hiring-Challenge/static/js/main.bd5f290a.js",
+    "index.html": "/Etstur-Frontend-Hiring-Challenge/index.html",
+    "main.09d73d54.css.map": "/Etstur-Frontend-Hiring-Challenge/static/css/main.09d73d54.css.map",
+    "main.bd5f290a.js.map": "/Etstur-Frontend-Hiring-Challenge/static/js/main.bd5f290a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09d73d54.css",
+    "static/js/main.bd5f290a.js"
+  ]
+}
